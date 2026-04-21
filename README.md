@@ -41,6 +41,6 @@ Modelin gelişimi sırasında yapılan testlerde şu sonuçlar alınmıştır:
 ## 🔗 Model Erişimi
 
 Model dosyalarına ve ağırlıklarına Hugging Face üzerinden ulaşılabilir:
-[Hugging Face - Garoz/matematik\_soru\_cozumu](https://www.google.com/search?q=https://huggingface.co/Garoz/matematik_soru_cozumu)
+[Hugging Face - Garoz/matematik\_soru\_cozumu](https://huggingface.co/Garoz/matematik_soru_cozumu/tree/main)
 
 -----
